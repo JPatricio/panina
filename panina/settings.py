@@ -44,6 +44,7 @@ INSTALLED_APPS = [
 
     # MINE
     'myauth.apps.MyauthConfig',
+    'cards.apps.CardsConfig',
 ]
 
 MIDDLEWARE = [
